@@ -1,0 +1,7 @@
+ctrl + k + c = para comentar
+ctrl + k + u = para descomentar
+alt + seta  = para bloco de código movimentar linhas
+alt + shift + seta = para duplicar linhas 
+ctrl + c ctrl + f ctrl + h(ctrl + alt + enter) = para substiruir palavras
+ctrl + enter = para abrir uma janela ao lado
+F12 = para abrir o código fonte 

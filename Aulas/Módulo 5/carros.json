@@ -1,0 +1,17 @@
+[
+    {
+        "Marca": "Nissan",
+        "Preco": 45000,
+        "Cor": "Azul"
+    },
+    {
+        "Marca": "Ford",
+        "Preco": 75000,
+        "Cor": "Verde"
+    },
+    {
+        "Marca": "BMW",
+        "Preco": 115000,
+        "Cor": "Amarelo"
+    }
+]
